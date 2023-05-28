@@ -1,7 +1,7 @@
-const fs = require("fs");
+// const fs = require("fs");
 
-const {n , ne} = require('./modules/cal.js')
-console.log(n , ne)
+// const {n , ne} = require('./modules/cal.js')
+// console.log(n , ne)
 
 // // SYNCHRONOUSLY CREATES A FILE AND ADD TEXT TO IT
 // fs.writeFileSync("read.txt", "welcome to this PC");
@@ -33,3 +33,4 @@ console.log(n , ne)
 // const path = require('path')
 // console.log(os.arch() , (os.freemem())/(1024**3) , os.totalmem()/1024**3 , os.hostname())
 // console.log(path.parse("E:\CareerAndWork\ComputerScienceAndcollege\codes\LanguagesAndTechsTuts\NodeJs\index.jsx"))
+// console.log(os.tmpdir())
